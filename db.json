@@ -1,0 +1,117 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "alpha",
+      "age": 12,
+      "lang": "en"
+    },
+    {
+      "id": 2,
+      "name": "beta",
+      "age": 13,
+      "lang": "fr"
+    },
+    {
+      "id": 3,
+      "name": "gamma",
+      "age": 0,
+      "lang": "hi"
+    },
+    {
+      "name": "eta",
+      "id": 4
+    },
+    {
+      "name": "theta",
+      "id": 5
+    },
+    {
+      "name": "sigma",
+      "id": 6
+    },
+    {
+      "name": "sdfrthj",
+      "id": 7
+    },
+    {
+      "name": "qwerty",
+      "id": 8
+    },
+    {
+      "name": "something",
+      "id": 9
+    },
+    {
+      "name": "something something",
+      "id": 10
+    },
+    {
+      "name": "dsfgh",
+      "id": 11
+    },
+    {
+      "name": "sdrft",
+      "id": 12
+    }
+  ],
+  "studentDetails": [
+    {
+      "name": "alpha",
+      "address": "alpha address",
+      "phone": "1234567890"
+    },
+    {
+      "name": "beta",
+      "address": "beta address",
+      "phone": "1234567890"
+    },
+    {
+      "name": "gamma",
+      "address": "gamma address",
+      "phone": "1234567890"
+    }
+  ],
+  "studentMarks": [
+    {
+      "name": "alpha",
+      "marks": 100
+    },
+    {
+      "name": "beta",
+      "marks": 200
+    },
+    {
+      "name": "gamma",
+      "marks": 300
+    },
+    {
+      "name": "eta",
+      "marks": 400
+    },
+    {
+      "name": "theta",
+      "marks": 500
+    },
+    {
+      "name": "chi",
+      "marks": 600
+    },
+    {
+      "name": "psi",
+      "marks": 700
+    },
+    {
+      "name": "omega",
+      "marks": 800
+    },
+    {
+      "name": "zeta",
+      "marks": 900
+    },
+    {
+      "name": "iota",
+      "marks": 1000
+    }
+  ]
+}
